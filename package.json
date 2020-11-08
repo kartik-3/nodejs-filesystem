@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-filesystem",
+  "version": "1.0.0",
+  "description": "A file server using nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kartik-3/nodejs-filesystem.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Kartik Sehgal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kartik-3/nodejs-filesystem/issues"
+  },
+  "homepage": "https://github.com/kartik-3/nodejs-filesystem#readme",
+  "dependencies": {
+    "dayjs": "^1.9.5",
+    "express": "^4.17.1"
+  }
+}
