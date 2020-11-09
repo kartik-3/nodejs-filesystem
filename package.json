@@ -22,5 +22,8 @@
   "dependencies": {
     "dayjs": "^1.9.5",
     "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "14.9.0"
   }
 }
